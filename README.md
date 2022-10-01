@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Canary, a half-stack Python Developer 👨‍💻 Coding since 2016 🚀</div>  
+### <div align="center">I'm Canary, a full-stack Python Developer 👨‍💻 Coding since 2016 🚀</div>  
   
 
 - 🔭 I’m currently working on [Advanche ZeroOS](https://github.com/CanaryZen/ZeroOS)  
